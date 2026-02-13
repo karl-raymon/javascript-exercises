@@ -15,9 +15,6 @@ const fibonacci = function (num) {
     }
   }
 
-  //   for (let j = 0; j < arr.length; j++) {
-  //     sum += arr.length();
-  //   }
   return arr[arr.length - 1];
 };
 
